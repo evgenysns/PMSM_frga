@@ -1,0 +1,17 @@
+-lint
+-work work
++incdir+.
++incdir+../src
+
+../src/definitions.sv
+../src/regdefs.vh
+
+../src/svmod.sv
+
+./sim_usignal.sv
+./sim_bsignal.sv
+./sim_adcsignal.sv
+./sim_ssignal.sv
+./sim_signals.sv
+
+./testtb_svpwm.sv
